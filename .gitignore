@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Kaggle competition datasets and generated outputs
+train.csv
+test.csv
+resultados_entrega/
